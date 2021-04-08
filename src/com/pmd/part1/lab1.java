@@ -5,11 +5,11 @@ public class lab1 {
 	public static void main(String[] args) {
 		int number = 10;
 		String greeting = " Hi";
-		boolean flag = true;
+		boolean isData = true;
 		
 		System.out.println("This is a int " + number );
 		System.out.println("This is a string " + greeting );
-		System.out.println("This is a boolean " + flag );
+		System.out.println("This is a boolean " + isData );
 
 		//System.out.println("Hello Mars");
 		/*
